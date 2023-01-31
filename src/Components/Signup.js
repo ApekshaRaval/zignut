@@ -64,7 +64,7 @@ const errorMessage = () => {
 		style={{
 		display: error ? '' : 'none',
 		}}>
-		<h1>Please enter all the fields</h1>
+		<h1>Please enter all the fields new</h1>
 	</div>
 	);
 };
