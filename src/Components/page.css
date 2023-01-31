@@ -1,0 +1,24 @@
+.success{
+    color: green;
+    font-size: medium;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.error{
+    color: red;
+    font-size: medium;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.input{
+    color: black;
+    background-color: bisque;
+    border-top: 0px;
+    border-left: 0px;
+     border-right: 0px;
+     border-bottom-color:blue ;
+     
+}
+body{
+    background-image:url('https://www.iftas.in/images/inner-banner/procurement.png') ;
+}

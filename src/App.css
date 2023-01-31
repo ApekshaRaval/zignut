@@ -1,0 +1,17 @@
+div{
+margin: 200px 500px;
+}
+
+button{
+  padding:10px 20px;
+  background-color: lightsalmon;
+  border-radius: 10px;
+}
+h1{
+  text-align: center;
+}
+img{
+  width:auto;
+  height:10rem;
+  margin: 0%;
+}
